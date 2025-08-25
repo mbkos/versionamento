@@ -2,4 +2,15 @@ body{
     background-color: #b568b1;
     color: #ffffff;
     font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    font-size: 18px;
+}
+
+.title{
+    text-align: center;
+    font-size: 25px;
+}
+
+.text{
+    text-align: justify;
 }
